@@ -29,11 +29,11 @@
 
 ### 🏆 Projects
 ---
-- [Project 1](Project-1-URL): 간단한 프로젝트 설명
-- [Project 2](Project-2-URL): 간단한 프로젝트 설명
+- [Project 1](Project-1-URL): 
+- [Project 2](Project-2-URL): 
 
 ### 📚 Currently Learning
 ---
-- 데이터 구조와 알고리즘
-- 클라우드 컴퓨팅 (AWS)
-- 머신 러닝 기초
+-
+-
+-
