@@ -20,7 +20,7 @@
 
   <br> <br> 
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olrlobt&layout=compact)](https://github.com/olrlobt/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwo9827&layout=compact)](https://github.com/ㅏ재9827/github-readme-stats)
 </div>
 
 
