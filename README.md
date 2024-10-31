@@ -18,9 +18,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### 📊 GitHub Stats
----
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+  <br> <br> 
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olrlobt&layout=compact)](https://github.com/olrlobt/github-readme-stats)
+</div>
+
 
 ### 🌐 Connect with me
 ---
