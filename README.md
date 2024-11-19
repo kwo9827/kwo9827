@@ -31,7 +31,7 @@
 
 ### 🏆 Projects
 ---
-- WinneyMoney : [(https://github.com/kwo9827/winneymoney)]
+- WinneyMoney[(https://github.com/kwo9827/winneymoney)]
 
 
 ### 📚 Currently Learning
