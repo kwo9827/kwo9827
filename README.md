@@ -37,7 +37,6 @@
 
 ### Blog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tmdduf785)](https://velog.io/@eungyeole) 
 ---
-https://v2.velog.io/rss/tmdduf785
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785&limit=6)](https://velog.io/@tmdduf785)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
