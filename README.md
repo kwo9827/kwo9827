@@ -37,5 +37,5 @@
 
 ### ✍ Blog
 ---
-[![Velog](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@tmdduf785)  
-[![Vue Series](https://img.shields.io/badge/Vue%20Series-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://velog.io/@tmdduf785/series/Vue)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
