@@ -2,7 +2,7 @@
 
 ### ♟️ About Me 
 ---
-🖐 안녕하세요. 신입 개발자 오승열입니다.
+🖐 안녕하세요. 신입 프론트엔드 개발자 오승열입니다.
 
 🌱 현재 웹 개발과 소프트웨어 엔지니어링을 공부하고 있습니다.  
 💡 새로운 기술을 배우고 도전하는 것을 좋아합니다.  
@@ -37,4 +37,9 @@
 
 ### Blog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tmdduf785)](https://velog.io/@eungyeole) 
 ---
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
