@@ -35,7 +35,6 @@
 - Next.js
 - Web Performance Optimization
 
-### ✍ Blog
+### ✍ Blog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tmdduf785)](https://velog.io/@eungyeole) 
 ---
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tmdduf785)](https://velog.io/@eungyeole) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
