@@ -28,6 +28,7 @@
 ### 🏆 Projects
 ---
 - [WinneyMoney](https://github.com/kwo9827/winneymoney)
+- [WineDining](https://github.com/kwo9827/Wine_dining)
 
 ### 📚 Currently Learning
 ---
