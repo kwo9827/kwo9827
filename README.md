@@ -4,9 +4,9 @@
 ---
 🖐 안녕하세요. 신입 프론트엔드 개발자 오승열입니다.
 
-🌱 현재 웹 개발과 소프트웨어 엔지니어링을 공부하고 있습니다.  
+🌱 현재 웹 개발과 사용자 경험을 개선하는 서비스를 위주로 개발하고 있습니다. 
 💡 새로운 기술을 배우고 도전하는 것을 좋아합니다.  
-🎯 목표는 사용자 경험을 개선하는 혁신적인 솔루션을 만드는 것입니다.
+🎯 목표는 사용자 경험을 가장 먼저 고려하고 개선하는 혁신적인 솔루션을 만드는 것입니다.
 
 ### 🛠 Tech Stack
 ---
@@ -28,13 +28,16 @@
 ### 🏆 Projects
 ---
 - [WinneyMoney](https://github.com/kwo9827/winneymoney)
-- [WineDining](https://github.com/kwo9827/Wine_dining)
+- [와인다이닝](https://github.com/kwo9827/Wine_dining)
+- [고민한접시](https://github.com/kwo9827/Gomin_plate)
+- [동화숲](https://github.com/kwo9827/Donghwasoop)
+- [렉시오](https://github.com/kwo9827/LEXIO)
 
 ### 📚 Currently Learning
 ---
 - TypeScript
 - Next.js
-- Web Performance Optimization
+- React
 
 ### Blog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tmdduf785)](https://velog.io/@eungyeole) 
 ---
