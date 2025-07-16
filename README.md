@@ -59,6 +59,6 @@
 
 ---
 
-### 📝 Blog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tmdduf785)](https://velog.io/@eungyeole) 
+### 📝 Blog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tmdduf785)](https://velog.io/@tmdduf785) 
 ---
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://velog.io/@tmdduf785)
