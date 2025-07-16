@@ -45,11 +45,11 @@
 
 | 프로젝트명 | 설명 |
 |-----------|------|
-| [WinneyMoney](https://github.com/kwo9827/winneymoney) | Django + Vue 기반 금융 추천 서비스 |
-| [와인다이닝](https://github.com/kwo9827/Wine_dining) | SSAFY 수상작, 와인 추천 및 셀러 공유 플랫폼 |
-| [고민한접시](https://github.com/kwo9827/Gomin_plate) | 실시간 고민 나눔 플랫폼 (익명 게시판 + 알림 기능) |
-| [동화숲](https://github.com/kwo9827/Donghwasoop) | AI 음성 기반 동화 읽기 웹앱 (WebSocket + OAuth) |
-| [렉시오](https://github.com/kwo9827/LEXIO) | Firebase 기반 보드게임 Lexio 웹 구현 (실시간 멀티플레이) |
+| [WinneyMoney](https://github.com/kwo9827/winneymoney) | Django + Vue 기반 금융 상품 추천 서비스 |
+| [와인다이닝](https://github.com/kwo9827/Wine_dining) | 와인 입문자들을 위한 와인 추천 서비스 |
+| [고민한접시](https://github.com/kwo9827/Gomin_plate) | 실시간 고민 공유 플랫폼|
+| [동화숲](https://github.com/kwo9827/Donghwasoop) | AI 음성 학습 기반 동화 읽기 서비스|
+| [렉시오](https://github.com/kwo9827/LEXIO) | 보드게임 Lexio 웹 구현|
 
 ---
 
