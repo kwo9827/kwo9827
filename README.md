@@ -59,7 +59,9 @@
 
 ---
 
-### 📝 Blog & Contact
+### 📝 Blog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tmdduf785)](https://velog.io/@eungyeole) 
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@eungyeole)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/kwo9827)
+### Blog 
+---
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdduf785)](https://github.com/eungyeole/velog-readme-stats)
